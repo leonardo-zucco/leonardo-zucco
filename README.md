@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Olá 👋 Como estão?</h1>
 
-<!--
-**leonardo-zucco/leonardo-zucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Leonardo, sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta na cultura DevOps e sou de Uberaba - MG, Brasil.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estudando sobre ciclo de desenvolvimento de software<br>🎯 Metas: Engenheiro DevOps</p>
+
+###
+
+<h2 align="left">Eu codifico com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+</div>
+
+###
